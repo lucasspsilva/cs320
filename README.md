@@ -1,1 +1,3 @@
 # cs320
+
+To make sure my code, program, or software works well and stays safe, I write many tests and do regular checks of the code. I also use special tools to find any security problems. From the beginning, I add safety steps like checking inputs carefully and using encryption to stop possible dangers early on. To understand what users need, I will collect feedback by using surveys, talking with them in interviews, or listening to their user stories. Then I change this information into useful features. When making software design, first I divide requirements into smaller parts and arrange these parts based on how important they are for the users. Also, I use methods like modularity and scalability so that the software can easily adjust and expand as needed over time.
